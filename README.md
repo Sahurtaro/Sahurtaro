@@ -1,4 +1,4 @@
-### <div align="center">Hola soy Santiago,un desarrollador backend orientado a tecnologías web 👨‍💻</div>  
+### <div align="center">Hola soy Santiago, un desarrollador backend orientado a tecnologías web 👨‍💻</div>  
   
 
 - 🔭 Actualmente estoy trabajando en ampliar mis conocimientos en tecnologías backend y arquitectura MVC   
