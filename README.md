@@ -5,9 +5,21 @@
   
 
 - 🌱 Actualmente estoy aprendiendo AWS  
+
+
+- ⚙️ Uso a diario: .node, .js, .express, .mongoose, .git, .postman
   
 
 - ❓ Puedes preguntarme sobre la creación de servidores, endpoints y modelos utilizando Node.js, Express y Mongoose  
+
+
+- 📫 Contáctame: sahurtaro@gmail.com
+
+
+- 💬 Consúltame sobre: servidores, bases de datos, rutas, autenticación
+
+
+- ⚡ Fun fact: Me encanta el Judo
   
 
 <br/>  
